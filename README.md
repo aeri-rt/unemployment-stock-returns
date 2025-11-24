@@ -5,6 +5,11 @@
 **Institution:** Florida Polytechnic University  
 **Date:** January 2025
 
+
+## Quick Links
+
+- **[View Live Report](https://aeri-rt.github.io/unemployment-stock-returns/Project/Report_Trinh.html)** — Rendered HTML with all results
+- **[GitHub Repository](https://github.com/aeri-rt/unemployment-stock-returns)** — Source code and documentation
 ---
 
 ## Contents of This Submission
@@ -78,16 +83,13 @@ Classic asset pricing theory (Campbell & Shiller, 1988; Fama, 1990) suggests hig
 2. **Unanticipated unemployment (surprises) do not matter** (β = -0.02, p = 0.92)
    - Markets only respond to forecastable component, not shocks
    
-3. **VIX dominates everything** (explains 40% of return variation alone)
-   - Post-1990 equity markets explained primarily by volatility, not macro
-   
-4. **No formal structural break at 2014** (Chow test: p = 0.30)
+3. **No formal structural break** (Chow test: p = 0.30)
    - Relationship is pervasively unstable (CV = 98%) but no discrete regime shift
    
-5. **Negative out-of-sample R² (-0.7%)** 
+4. **Negative out-of-sample R² (-0.7%)**
    - Unemployment has zero practical forecasting power
    
-6. **Low statistical power (23%)** to detect modest effects
+5. **Low statistical power (23%)** to detect modest effects
    - Non-significant interaction terms may reflect Type II errors
 
 ### Contributions
